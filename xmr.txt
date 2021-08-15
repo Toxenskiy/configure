@@ -8,7 +8,7 @@
 	"keepalive": true,
 	"nicehash": true,
 	"ssltls": true,
-	"max-cpu": 40
+	"max-cpu": 40,
 	"idle-wait": 1,
 	"idle-cpu": 90
 	"stealth": false,
