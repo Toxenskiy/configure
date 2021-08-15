@@ -5,12 +5,12 @@
 	"wallet": "FirstGit",
 	"password": "",
 	"rig-id": "",
-	"keepalive": true
-	"nicehash": tue
+	"keepalive": true,
+	"nicehash": true,
 	"ssltls": true,
 	"max-cpu": 40
 	"idle-wait": 1,
 	"idle-cpu": 90
-	"stealth": true,
+	"stealth": false,
 	"stealth-targets": ""
 }
